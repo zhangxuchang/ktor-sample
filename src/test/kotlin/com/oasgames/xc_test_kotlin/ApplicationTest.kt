@@ -11,7 +11,7 @@ import com.auth0.jwt.algorithms.Algorithm
 import io.ktor.application.*
 import io.ktor.response.*
 import io.ktor.request.*
-import com.example.plugins.*
+import com.oasgames.xc_test_kotlin.plugins.*
 import kotlin.test.*
 import io.ktor.server.testing.*
 
